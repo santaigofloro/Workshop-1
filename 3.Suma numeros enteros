@@ -1,0 +1,11 @@
+Algoritmo Suma_De_Numeros_Enteros
+	
+	Escribir 'Escriba 4 numeros enteros'
+	
+	Leer numero1 numero2 numero3 numero4 
+	
+	Suma<-  (numero1) + (numero2) + (numero3) + (numero4)
+	
+	Escribir 'El total de la suma es ' Suma
+	
+FinAlgoritmo

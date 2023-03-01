@@ -1,0 +1,15 @@
+Algoritmo area_de_un_triangulo
+	
+	Escribir 'Copie la base de su triangulo'
+	
+	Leer Base
+	
+	Escribir 'Copie la altura de su triangulo'
+	
+	Leer Altura
+	
+	Area<-Base*Altura/2
+	
+	Escribir 'El area de su triangulo es de ' Area
+	
+FinAlgoritmo

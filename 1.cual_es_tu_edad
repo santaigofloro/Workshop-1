@@ -1,0 +1,14 @@
+Algoritmo cual_es_tu_edad
+	
+	Escribir 'Copie su edad'
+	
+	Leer numero
+	
+	Edad<-2023-numero
+	
+	Escribir 'el año de su nacimiento es ' Edad
+	
+	
+	
+FinAlgoritmo
+

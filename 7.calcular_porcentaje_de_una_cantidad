@@ -1,0 +1,15 @@
+Algoritmo calcular_porcentaje_de_una_cantidad
+	
+	Escribir 'escriba la cantidad' 
+	
+	Leer numero
+	
+	Escribir 'Escriba el porcentaje que quiere haller'
+	
+	Leer porcentaje
+	
+	porcen<- porcentaje*numero/100 
+	
+	Escribir 'el ' porcentaje ' de ' numero ' es ' porcen
+	
+FinAlgoritmo
